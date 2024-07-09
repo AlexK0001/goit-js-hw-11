@@ -7,6 +7,10 @@
 @import url('./reset.css');
 @import url('./vite-promo.css');
 @import url('./header.css');
+@import "izitoast/dist/css/iziToast.min.css";
+@import iziToast from "izitoast";
+@import SimpleLightbox from "simplelightbox";
+@import "simplelightbox/dist/simple-lightbox.min.css";
 
 :root {
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
